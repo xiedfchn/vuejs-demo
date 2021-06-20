@@ -2,6 +2,28 @@
 
 > This is the project from the YouTube crash course
 
+## Essentials
+Component Instances
+![image](https://user-images.githubusercontent.com/24758636/122691478-d0964a80-d227-11eb-8ec9-0382467c66c3.png)
+
+Template Syntax
+
+Data Properties
+Methods 
+Computed Propertie
+Class and Style Bindings
+Conditional Rendering
+List Rendering
+Event Handling
+Form Input Bindings
+
+
+
+
+
+
+
+
 ## Project setup
 
 ```
